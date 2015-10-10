@@ -1,6 +1,6 @@
 ### MFE
 
-+ It's some useful infomation about top MFE programs, which I am considering to apply for.
++ It's some useful infomation about top MFE programs, which I am considering to apply for. I'll continue to add infomation until I receive admission.
 	+ Columbia MFE
 	+ CMU MSCF
 	+ Baruch MFE
