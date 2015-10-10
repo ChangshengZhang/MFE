@@ -6,6 +6,6 @@
 	+ Baruch MFE
 	+ NYU MSFM
 	+ UCB MFE
-	+ UChi MSFM (I am hesitate on it.)
+	+ UChi MSFM (I hesitate on it.)
 	+ MIT MFin (I will definately not apply for it.)
 + I wish I had good luck.
