@@ -1,4 +1,4 @@
-### MIT Sloan
+### MIT MFin
 
 	last modified time: Oct. 9 2015 18:30
 
