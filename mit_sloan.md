@@ -1,4 +1,7 @@
 ### MIT Sloan
+
+	last modified time: Oct. 9 2015 18:30
+
 #### Basic Infomation:
 
 + Deadline 01/04/2016
@@ -18,7 +21,10 @@
 	
 	+ internship, passion and interests in fielf in finance.
 	+ math 
-	 
+	
++ GRE math sub:
+	+ Have grades, show it; no, it's fine.
+
 + Another one is about employment after graduation. I have read the placement report of MIT, CMU and Columnbia, I have to admit the fact that there is a distinctive gap between MIT adn CMU in base salary. Maybe there is some unkonwn reason not shown in the report. What is main reason contribute to this difference. 
 
 	+ reputation
