@@ -7,5 +7,5 @@
 	+ NYU MSFM
 	+ UCB MFE
 	+ UChi MSFM (I hesitate on it.)
-	+ MIT MFin (I will definately not apply for it.)
+	+ MIT MFin (I have decided not to apply for it.)
 + I wish I had good luck.
