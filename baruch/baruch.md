@@ -8,8 +8,9 @@
 + Director: Dan 
 + Placement:
 	1. Quantitative Modelling
-	2. Risk
-	3. etc.
+	2. S&T, Desk Quant, Algo Trading Quant (Baruch match)
+	3. Traditional Trader (not Baruch's advantage)
+	4. Buy Side, Quant Trader (MFE is less competitive compared with Ph.D)
 + Pre seminars (Jun. to Aug.)
 	+ C Plus Plus
 	+ Probability, Real Analysis, Statistic, etc.
@@ -47,4 +48,22 @@
 			+ Good Relationship > Big Name
 		7. GRE:
 			+ Math, 170 ^_^
+
++ Interview:
+	+ The undergraduate of Baruch read CV and PS
+	+ Interview by Professori
+		
+		Pure tech: math(calculus, probability and linear algebra); C Plus Plus (Concentrate on feature instead of Algorithm) 
+
+	+ Interview by Dan
+
+		
++ FAQ:
+	+ wish to do S&T, how?
+
+	Mainly enroll US native, less demand on tech, Chinese is hard to get admitted. CMU is good at S&T
+
+	+ Quantitative Researcher 's Job Responsibility?
+
+	Desk quant support, long term modelling and traditional S&T
 
