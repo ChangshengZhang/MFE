@@ -42,7 +42,7 @@
 		    + CV(Internship, C++, interests)
 		    + PS:(2-3 pages)
 			    1. Why MFE: (Core) Background of Math, Coding, Finance, Internship, interests in working at Quantitative Fields.
-			    2. Why Baruch: Baruch's Advantages(location, placement, etc.); Jim Gatheral, Andrew Lesniewski; mfe.baruch.cuny.edu/student-profiles	
+			    2. Why Baruch: Baruch's Advantages(location, placement, etc.); Jim Gatheral, Andrew Lesniewski; <mfe.baruch.cuny.edu/student-profiles>	
 			    3. Career Path: Desk Quant, Risk, etc... 
 		6. Recommend Letters:
 			+ Good Relationship > Big Name
